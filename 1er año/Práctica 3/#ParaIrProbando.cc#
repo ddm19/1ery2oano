@@ -1,0 +1,26 @@
+uis#include <iostream>
+#include "Util.h"
+#include "Example.h"
+#include <vector>
+using namespace std;
+
+
+
+int main(int argc, char **argv)
+{
+	Example prueba("Casa");
+	string texto;
+	vector <string> tokens;
+	
+		cout<<prueba.getId()<<endl;
+		cout<<prueba.getText()<<endl;
+		cin>>texto;
+		
+		tokens=Util::extractTokens(texto);
+		
+		for(unsigned i = 0 ; i<tokens.size() ; i++)
+			cout<<tokens[i]<<endl;
+	
+	return 0;
+}
+
