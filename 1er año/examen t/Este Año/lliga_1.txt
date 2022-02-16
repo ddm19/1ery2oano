@@ -1,0 +1,48 @@
+Laia Palau
+Spar CityLift Girona
+04 07 1980
+1.82
+Julia Reisingerova
+Spar CityLift Girona
+18 11 2000
+1.94
+Nuria Martinez
+Spar CityLift Girona
+12 05 2000
+1.74
+Nadia Colhado
+Spar CityLift Girona
+25 07 1990
+1.93
+Laura Penya
+Cadi La Seu
+03 02 2000
+1.82
+Yurena Diaz
+Cadi La Seu
+12 12 1990
+1.78
+Marina Lizarazu
+Cadi La Seu
+02 02 2001
+1.82
+Ariadna Pujol
+Cadi La Seu
+04 12 1995
+1.90
+Queralt Casas
+Valencia Basket
+02 03 1985
+1.90
+Tamara Abalde
+Valencia Basket
+23 10 1998
+1.72
+Laura Gil
+Perfumerias Avenida
+05 09 1996
+1.89
+Silvia Dominguez
+Perfumerias Avenida
+12 12 1990
+1.65

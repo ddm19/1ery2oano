@@ -1,0 +1,26 @@
+#covid1#Los coronavirus son una extensa familia de virus que pueden causar enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio (MERS) y el síndrome respiratorio agudo severo (SRAS). El coronavirus que se ha descubierto más recientemente causa la enfermedad por coronavirus COVID-19.
+¿Qué es un coronavirus?
+Háblame del coronavirus
+Me gustaría saber qué es el coronavirus
+coronavirus
+#covid2#La COVID-19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto más recientemente. Tanto el nuevo virus como la enfermedad eran desconocidos antes de que estallara el brote en Wuhan (China) en diciembre de 2019.
+¿Qué es la COVID-19?
+Habla del COVID-19
+Megabot, dime qué es el COVID-19
+¿De dónde ha salido el COVID-19?
+#covid3#Una persona puede contraer la COVID-19 por contacto con otra que esté infectada por el virus. La enfermedad puede propagarse de persona a persona a través de las gotículas procedentes de la nariz o la boca que salen despedidas cuando una persona infectada tose o exhala. Estas gotículas caen sobre los objetos y superficies que rodean a la persona, de modo que otras personas pueden contraer la COVID-19 si tocan estos objetos o superficies y luego se tocan los ojos, la nariz o la boca. También pueden contagiarse si inhalan las gotículas que haya esparcido una persona con COVID-19 al toser o exhalar. Por eso es importante mantenerse a más de 1 metro de distancia de una persona que se encuentre enferma. La OMS está estudiando las investigaciones en curso sobre las formas de propagación de la COVID-19 y seguirá informando sobre los resultados actualizados.
+¿Cómo se propaga el COVID-19?
+¿Cómo se contagia el coronavirus?
+¿Puedo coger el coronavirus tocando los teclados de la EPS?
+Modos de propagación del coronavirus
+#covid4#La principal forma de propagación de la enfermedad es a través de las gotículas respiratorias expelidas por alguien al toser. El riesgo de contraer la COVID-19 de alguien que no presente ningún síntoma es muy bajo. Sin embargo, muchas personas que contraen la COVID-19 solo presentan síntomas leves. Esto es particularmente cierto en las primeras etapas de la enfermedad. Por lo tanto, es posible contagiarse de alguien que, por ejemplo, solamente tenga una tos leve y no se sienta enfermo. La OMS está estudiando las investigaciones en curso sobre el periodo de transmisión de la COVID-19 y seguirá informando sobre los resultados actualizados.
+¿Es posible contagiarse de COVID-19 por contacto con una persona que no presente ningún síntoma?
+¿Me puede contagiar el coronavirus alguien que parezca sano?
+Una persona sin síntomas, ¿me puede contagiar el COVID-19?
+Si nadie tiene síntomas en casa de coronavirus, ¿puedo estar tranquilo?
+#covid5#Los antibióticos no son eficaces contra los virus, solo contra las infecciones bacterianas. La COVID-19 está causada por un virus, de modo que los antibióticos no sirven frente a ella. No se deben usar antibióticos como medio de prevención o tratamiento de la COVID-19. Solo deben usarse para tratar una infección bacteriana siguiendo las indicaciones de un médico.
+¿Son eficaces los antibióticos para prevenir o tratar la COVID-19?
+¿Puedo tomar antibióticos contra el coronavirus?
+¿Puedo combatir el coronavirus con penicilina?
+¿Me puede ayudar un antibiótico a curarme del covid-19?
+
