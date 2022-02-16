@@ -1,0 +1,80 @@
+1- Train
+2- Test
+3- Report
+4- Configure
+5- Import data
+6- Export data
+7- Load chatbot
+8- Save chatbot
+q- Quit
+Option: 1- Add intent
+2- Delete intent
+3- Add example
+4- Delete example
+5- Add response
+b- Back to main menu
+Option: Intent name: 1- Add intent
+2- Delete intent
+3- Add example
+4- Delete example
+5- Add response
+b- Back to main menu
+Option: Intent name: New response: 1- Add intent
+2- Delete intent
+3- Add example
+4- Delete example
+5- Add response
+b- Back to main menu
+Option: Intent name: New example: New example: New example: New example: 1- Add intent
+2- Delete intent
+3- Add example
+4- Delete example
+5- Add response
+b- Back to main menu
+Option: Intent name: 1- Add intent
+2- Delete intent
+3- Add example
+4- Delete example
+5- Add response
+b- Back to main menu
+Option: Intent name: New response: 1- Add intent
+2- Delete intent
+3- Add example
+4- Delete example
+5- Add response
+b- Back to main menu
+Option: Intent name: New example: New example: New example: 1- Add intent
+2- Delete intent
+3- Add example
+4- Delete example
+5- Add response
+b- Back to main menu
+Option: 1- Train
+2- Test
+3- Report
+4- Configure
+5- Import data
+6- Export data
+7- Load chatbot
+8- Save chatbot
+q- Quit
+Option: Save all intents [Y/N]?: Save all intents [Y/N]?: Enter filename: ERROR: cannot open file
+1- Train
+2- Test
+3- Report
+4- Configure
+5- Import data
+6- Export data
+7- Load chatbot
+8- Save chatbot
+q- Quit
+Option: Save all intents [Y/N]?: Enter filename: 1- Train
+2- Test
+3- Report
+4- Configure
+5- Import data
+6- Export data
+7- Load chatbot
+8- Save chatbot
+q- Quit
+Option: 
